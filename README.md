@@ -1,3 +1,4 @@
+Python-Alarm-Clock
 This is a simple alarm clock program written in Python using the Tkinter library for the graphical user interface and Pygame for audio playback. The program allows users to set an alarm by selecting the hour, minute, AM/PM, and alarm sound from dropdown menus. Users can start, cancel, and stop the alarm using the provided buttons.
 
 contributers:
